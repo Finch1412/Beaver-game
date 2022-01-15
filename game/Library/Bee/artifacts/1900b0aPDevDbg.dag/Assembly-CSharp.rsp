@@ -319,6 +319,7 @@
 "Assets/script/Player/PlayerPlatformerController.cs"
 "Assets/script/Restart.cs"
 "Assets/script/UI/Damage.cs"
+"Assets/script/UI/END.cs"
 "Assets/script/UI/HealthManagerScript.cs"
 "Assets/script/UI/IncreaseLife.cs"
 "Assets/script/UI/IncreaseScore.cs"

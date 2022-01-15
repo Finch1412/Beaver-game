@@ -4,6 +4,7 @@ ScriptsOnlyBuild:
     - DetectCollision
     - DialogueManager
     - DialogueTrigger
+    - END
     - FixedJoystick
     - IncreaseScore
     - MenuManagerScript
@@ -18,6 +19,7 @@ ScriptsOnlyBuild:
     - UnityStandardAssets._2D.Camera2DFollow
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
+    - UnityEditor.Tilemaps.GridBrushEditor
     - UnityEditor.Tilemaps.GridPaintPaletteClipboard
     - UnityEditor.Tilemaps.GridPaintPaletteWindow
     - UnityEditor.Tilemaps.GridPaintingState
@@ -74,23 +76,23 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1554}
+      Script: {instanceID: 1556}
     - Class: 114
-      Script: {instanceID: 2266}
+      Script: {instanceID: 2268}
     - Class: 114
-      Script: {instanceID: 2676}
+      Script: {instanceID: 2678}
     - Class: 114
-      Script: {instanceID: 2822}
+      Script: {instanceID: 2824}
     - Class: 114
-      Script: {instanceID: 3052}
+      Script: {instanceID: 3054}
     - Class: 114
-      Script: {instanceID: 3280}
+      Script: {instanceID: 3282}
     - Class: 114
-      Script: {instanceID: 3398}
+      Script: {instanceID: 3400}
     - Class: 114
-      Script: {instanceID: 4220}
+      Script: {instanceID: 4222}
     - Class: 114
-      Script: {instanceID: 4800}
+      Script: {instanceID: 4802}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -141,51 +143,53 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 694}
+      Script: {instanceID: 696}
     - Class: 114
-      Script: {instanceID: 1554}
+      Script: {instanceID: 1556}
     - Class: 114
-      Script: {instanceID: 1900}
+      Script: {instanceID: 1902}
     - Class: 114
-      Script: {instanceID: 2154}
+      Script: {instanceID: 2156}
     - Class: 114
-      Script: {instanceID: 2266}
+      Script: {instanceID: 2268}
     - Class: 114
-      Script: {instanceID: 2662}
+      Script: {instanceID: 2664}
     - Class: 114
-      Script: {instanceID: 2676}
+      Script: {instanceID: 2678}
     - Class: 114
-      Script: {instanceID: 2822}
+      Script: {instanceID: 2824}
     - Class: 114
-      Script: {instanceID: 2874}
+      Script: {instanceID: 2876}
     - Class: 114
-      Script: {instanceID: 3000}
+      Script: {instanceID: 3002}
     - Class: 114
-      Script: {instanceID: 3052}
+      Script: {instanceID: 3054}
     - Class: 114
-      Script: {instanceID: 3104}
+      Script: {instanceID: 3106}
     - Class: 114
-      Script: {instanceID: 3122}
+      Script: {instanceID: 3124}
     - Class: 114
-      Script: {instanceID: 3280}
+      Script: {instanceID: 3282}
     - Class: 114
-      Script: {instanceID: 3398}
+      Script: {instanceID: 3400}
     - Class: 114
-      Script: {instanceID: 4070}
+      Script: {instanceID: 4072}
     - Class: 114
-      Script: {instanceID: 4132}
+      Script: {instanceID: 4134}
     - Class: 114
-      Script: {instanceID: 4160}
+      Script: {instanceID: 4162}
     - Class: 114
-      Script: {instanceID: 4176}
+      Script: {instanceID: 4178}
     - Class: 114
-      Script: {instanceID: 4236}
+      Script: {instanceID: 4238}
     - Class: 114
-      Script: {instanceID: 4432}
+      Script: {instanceID: 4434}
     - Class: 114
-      Script: {instanceID: 4622}
+      Script: {instanceID: 4624}
     - Class: 114
-      Script: {instanceID: 4800}
+      Script: {instanceID: 4802}
+    - Class: 114
+      Script: {instanceID: 4940}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -863,6 +867,12 @@ ScriptsOnlyBuild:
     className: TMP_SubMeshUI
   - hash:
       serializedVersion: 2
+      Hash: e5c5e6fb57fff17b0c05988da8d90fdb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: END
+  - hash:
+      serializedVersion: 2
       Hash: fd68d84f33fad85aac38f2739c0ee270
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -919,5 +929,5 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/Tutorial_Level.unity
-  playerPath: C:/Users/Jack/Documents/UNIVERSITY/LEVEL 4/MOBILE GAMES/Dam it Justin/Dam
-    it Justin.exe
+  playerPath: C:/Users/Jack/Documents/UNIVERSITY/LEVEL 4/MOBILE GAMES/Dam it Justin
+    2.0/Dam it Justin.exe
